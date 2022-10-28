@@ -1,0 +1,22 @@
+[
+  {
+    "course": "Computer Science",
+    "school": "University of Manitoba",
+    "degree": "Bachelor's Degree",
+    "start_date": "07-09-2019"
+  },
+  {
+    "course": "Biological Science",
+    "school": "Kathmandu Model Higher Secondary School",
+    "degree": "Higher Secondary School",
+    "start_date": "01-08-2015",
+    "end_date": "11-11-2017"
+  },
+  {
+    "course": "School",
+    "school": "Paragon Public School",
+    "degree": "Computer Science",
+    "start_date": "01-08-2010",
+    "end_date": "11-11-2015"
+  }
+]

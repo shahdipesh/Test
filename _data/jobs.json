@@ -1,0 +1,22 @@
+[
+  {
+    "function": "Customer Support Agent",
+    "company": "SkipTheDishes",
+    "start_date": "03-07-2020",
+    "description": "Act as a technical liaison between interdisciplinary teams to triage service tickets and resolve issues. Additionally, participate in daily standup meetings, discussion of issues, deadlines, feedback, and productivity"
+  },
+  {
+    "function": "Personal Support Worker",
+    "company": "Maitland B. Steinkopf Residence",
+    "start_date": "05-01-2021",
+    "end_date": "09-07-2021",
+    "description": "Assisted people, with special needs, with their daily activities that include, administering medication, feeding, bathing,and normal daily activities."
+  },
+  {
+    "function": "Personal Support Worker",
+    "company": "Lions Club of Winnipeg",
+    "start_date": "05-01-2020",
+    "end_date": "09-07-2020",
+    "description": "Assisted person(s) with activities of daily living including feeding, lifts and transfers, bathing, skin care, oral hygiene, and toileting."
+  }
+]

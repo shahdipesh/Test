@@ -1,0 +1,54 @@
+
+title: Resume
+author:
+  name: Dipesh
+  email: dipesh.sah@hotmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: false # set to true to show excerpts on the homepage
+portfolio:
+  info:
+    name:
+      firstname: Dipesh
+      lastname: Shah
+    location: 2080 Pembina Highway · Winnipeg, MB R3T2G9   
+    phonenumber: (204) 898-2465
+    email: dipesh.sah@hotmail.com
+  social:
+    # twitter: jekyllrb
+    # facebook: jekyll
+    github: shahdipesh
+    linkedin: shahdipesh99
+    # rss: 'https://jekyllrb.com'
+
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+jekyll-bootstrap-resume-theme:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+
+
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+url: "/test"
+baseurl: "shahdipesh.github.io"
+
+font-awesome-link: https://use.fontawesome.com/releases/v5.13.0/js/all.js
+bootstrap-bundle-min: https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js
+jquery-min: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+jquery-easing-min: https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js
